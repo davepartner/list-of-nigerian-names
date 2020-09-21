@@ -1,4 +1,4 @@
-'Favour','Emmanuel', 'Blessing', 'Michael', 'Esther', 'Samuel',
+['Favour','Emmanuel', 'Blessing', 'Michael', 'Esther', 'Samuel',
 'Precious', 'Victor', 'Joy', 'Daniel', 'Jessica', 'Kingsley', 'Mary', 'Gabriel', 'Grace', 'vincent', 
 'Rosemary', 'Isaac', 'Helen', 'David', 'Dorcas', 'Sam ', 'Diana', 'Peter', 'Mercy', 'Idris ', 'Paulinus', 'Paul', 'Peter','John',
 'Paul', 'Victoria', 'azeez', 'chinelo', 'Williams', 'Margaret', 'Charles', 'Queen',
@@ -22,4 +22,4 @@
 'Uche', 'Musa', 'Ifeanyi', 'Divine', 'Nagga', 'katrine', 'Kesta', 'Patricia',
 'Musa', 'Anna', 'Anthony', 
 'Joycee', 'Ridwan', 'Tina', 'Andrew', 'Ralia', 'Oluwole', 'Vivian', 'Segs', 
-'Nzube ', 'Abubakar', 'Abigail', 'Blaise'
+'Nzube ', 'Abubakar', 'Abigail', 'Blaise']
