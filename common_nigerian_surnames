@@ -1,4 +1,4 @@
-'Ibrahim','Musa','Abubakar','Abdullahi','Mohammed','Sani','Adamu','Usman','Umar','Muhammad',
+['Ibrahim','Musa','Abubakar','Abdullahi','Mohammed','Sani','Adamu','Usman','Umar','Muhammad',
 'Muhammed','Aliyu','Yusuf','Ali','Garba','Bello','Haruna','Hassan','Lawal','Aminu','Yakubu','Isah','John',
 'Idris','Eze','Yahaya','Salisu','Ahmed','Sunday','Akpan','Shehu','Isa','Amadi','Bala','Umaru','Ahmad',
 'Okafor','Emmanuel','Saidu','Rabiu','Joseph','James','Okeke','Adebayo','Ojo','Samuel','Audu','Dauda',
@@ -81,4 +81,4 @@
 'Olapade','Oyetunji','Segun','Salawudeen','Abidoye','Akintayo','Habib','Adeoti','Elechi','Ada','Rotimi','Nnamdi','Ibikunle','Nyam',
 'Maji','Adelaja','Oboh','Ime','Nwani',
 'Oladepo','Zakariyya','Amusan','Igba','Ikpe','Sidi','Oyeleke','Albert','Oyebamiji','Alu','Soliu','Gidado','Akinleye','Elom','Folarin',
-'Ugwoke','Akinsanya','Oba','Yushau','Fidelis','Nneji','Olaniran','Ogunmola','Barde','Ama','Kingsley','
+'Ugwoke','Akinsanya','Oba','Yushau','Fidelis','Nneji','Olaniran','Ogunmola','Barde','Ama','Kingsley']
